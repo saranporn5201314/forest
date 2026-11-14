@@ -1,5 +1,7 @@
 # Forest Area Forecasting with XGBoost (Malaysia, Thailand, Vietnam)
 
+**English** | [ภาษาไทย](README.th.md)
+
 This project uses an **XGBoost regression model** to study forest area in three Southeast Asian countries from **1990 to 2025** and to **forecast forest area up to 2035**.
 
 The notebook:
